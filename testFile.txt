@@ -1,3 +1,4 @@
 test file started
 and add this line too
 removed a line
+and finally added this line
